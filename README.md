@@ -1,16 +1,34 @@
-## Hi there 👋
+# 👋 Hi, I'm David Stutz
 
-<!--
-**dbstutz/dbstutz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Math & Computer Science @ Stanford University  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 💼 Experience
+
+- 🧠 **Research Intern** — Stanford CS Theory (CURIS)  
+  Studying algorithmic fairness and caching complexity with Profs. Rubinstein & Charikar
+
+- 💻 **Software Engineering Intern** — Terracon  
+  Built a C#/SQL data pipeline and reduced API latency by 12× using hash-based caching
+
+- 📊 **Project Manager** — Stanford Management Group  
+  Led product strategy projects for Microsoft, Grammarly, and Therabody
+
+---
+
+## ⚒️ Tools & Languages
+
+`Python` `TypeScript` `React` `Node.js` `FastAPI` `ChromaDB` `OpenAI`  
+`C++` `C#` `SQL` `Firebase` `Supabase` `OCR` `Streamlit` `Tailwind CSS`
+
+---
+
+## 💬 About Me
+
+- ⚽ Hobbies: Soccer, Pickleball, Football, Cooking, Gym, Movies  
+- 📫 Reach me at: **dstutz@stanford.edu**
+
+---
+
+--> Check out my favorite projects below!
