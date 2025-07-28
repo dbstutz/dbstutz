@@ -26,7 +26,7 @@
 
 ## 💬 About Me
 
-- ⚽ Hobbies: Soccer, Pickleball, Football, Cooking, Gym, Movies  
+- 🔥 Hobbies: Soccer, Pickleball, Football, Cooking, Gym, Movies  
 - 📫 Reach me at: **dstutz@stanford.edu**
 
 ---
