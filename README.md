@@ -10,7 +10,7 @@
   Studying algorithmic fairness and caching complexity with Profs. Rubinstein & Charikar
 
 - 💻 **Software Engineering Intern** — Terracon  
-  Built a C#/SQL data pipeline and reduced API latency by 12× using hash-based caching
+  Built a C#/SQL data pipeline and reduced API latency by 12× during database modernization effort
 
 - 📊 **Project Manager** — Stanford Management Group  
   Led product strategy projects for Microsoft, Grammarly, and Therabody
@@ -26,9 +26,9 @@
 
 ## 💬 About Me
 
-- 🔥 Hobbies: Soccer, Pickleball, Football, Cooking, Gym, Movies  
+- 🔥 Hobbies: Soccer, Pickleball, Football, Cooking, Gym, Movies
 - 📫 Reach me at: **dstutz@stanford.edu**
 
 ---
 
---> Check out my favorite projects below!
+Check out my favorite projects below!
