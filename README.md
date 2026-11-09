@@ -6,10 +6,13 @@
 
 ## 💼 Experience
 
-- 🧠 **Research Intern** — Stanford CS Theory (CURIS)  
-  Studying algorithmic fairness and caching complexity with Profs. Rubinstein & Charikar
+- 🧱 **Software Engineer Intern** — Databricks  
+  Built agents & infra for runtime observability, AI triaging and debugging
 
-- 💻 **Software Engineering Intern** — Terracon  
+- 🧠 **Research Intern** — Stanford CS Theory (CURIS)  
+  Studied algorithmic fairness and caching complexity with Profs. Rubinstein & Charikar
+
+- 💻 **Software Engineer Intern** — Terracon  
   Built a C#/SQL data pipeline and reduced API latency by 12× during database modernization effort
 
 - 📊 **Project Manager** — Stanford Management Group  
@@ -19,8 +22,8 @@
 
 ## ⚒️ Tools & Languages
 
-`Python` `TypeScript` `React` `Node.js` `FastAPI` `ChromaDB` `OpenAI`  
-`C++` `C#` `SQL` `Firebase` `Supabase` `OCR` `Streamlit` `Tailwind CSS`
+`Databricks SDK` `ChromaDB` `OpenAI SDK` `Claude SDK` `Supabase` 
+`C++` `C#` `SQL` `Python` `JavaScript` `React` `Java` `Node.js` 
 
 ---
 
