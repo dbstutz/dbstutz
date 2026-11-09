@@ -31,7 +31,3 @@
 
 - 🔥 Hobbies: Soccer, Pickleball, Football, Cooking, Gym, Movies
 - 📫 Reach me at: **dstutz@stanford.edu**
-
----
-
-Check out my favorite projects below!
